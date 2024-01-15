@@ -8,7 +8,7 @@
 [![NextJS](https://img.shields.io/badge/next.js-%2361DAFB.svg?style=for-the-badge&logo=next.js&logoColor=white&color=black)]()
 [![Redux](https://img.shields.io/badge/redux-%23764ABC.svg?style=for-the-badge&logo=redux&logoColor=white)]()
 [![Sass](https://img.shields.io/badge/sass-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=white)]()
-[![NestJS](https://img.shields.io/badge/nestjs-%2361DAFB.svg?style=for-the-badge&logo=nestjs&logoColor=white&color=red)]()
+[![NestJS](https://img.shields.io/badge/nestjs-%2361DAFB.svg?style=for-the-badge&logo=nestjs&logoColor=white&color=ea2845)]()
 
 - 🔭 I’m currently working on Application for car enthusiasts [Feel The Road](https://feeltheroad.info/pl) written in NextJS and NestJS combo!
 - 🌱 I’m currently learning NestJS
