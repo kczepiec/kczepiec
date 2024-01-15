@@ -18,3 +18,5 @@
 - 📫 How to reach me: 
   - kontakt@krzysztofczepiec.pl
 - 😄 Pronouns: He/Him
+
+![Krzysztof's GitHub stats](https://github-readme-stats.vercel.app/api?username=kczepiec&show_icons=true&theme=transparent)
