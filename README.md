@@ -19,4 +19,4 @@
   - kontakt@krzysztofczepiec.pl
 - 😄 Pronouns: He/Him
 
-![Krzysztof's GitHub stats](https://github-readme-stats.vercel.app/api?username=kczepiec&show_icons=true&bg_color=00000000&border_color=00000000)
+![Krzysztof's GitHub stats](https://github-readme-stats.vercel.app/api?username=kczepiec&show_icons=true&bg_color=00000000&border_color=00000000&text_color=ebebeb)
